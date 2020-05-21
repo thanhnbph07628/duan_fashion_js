@@ -1,0 +1,5 @@
+.sua button {background-color: green; color: #fff; border: 1px solid #fff; margin-right: 5px; width: 50px;}
+.xoa button{background-color: red; color: #fff; border: 1px solid #fff;width: 50px;}
+.table tbody tr td ul li{margin-left: 10px;}
+.card-header a button{float: right; background-color: #0099FF; color: #fff; border: 1px solid #fff; width: 90px;}
+.card-footer{float: right;}

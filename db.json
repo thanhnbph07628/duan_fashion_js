@@ -1,0 +1,310 @@
+{
+  "danhmuc": [
+    {
+      "tendm": "Áo mùa đông",
+      "id": 1
+    },
+    {
+      "tendm": "Áo mùa hè",
+      "id": 2
+    },
+    {
+      "tendm": "Quần dài",
+      "id": 3
+    },
+    {
+      "tendm": "Quần jean",
+      "id": 4
+    },
+    {
+      "tendm": "Áo phông",
+      "id": 5
+    },
+    {
+      "tendm": "Váy",
+      "id": 6
+    }
+  ],
+  "sanpham": [
+    {
+      "tensp": "Áo phông 1111",
+      "iddm": "6",
+      "images": "images/a2.jpg",
+      "giasp": "150000",
+      "giakm": "80000",
+      "soluong": "45",
+      "soluongban": "23",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "<p><strong>&Aacute;o sơ mi kiểu nữ Quy&ecirc;n basic dịu d&agrave;ng AA349</strong>&nbsp;được may từ chất liệu chiffon đem lại cho ph&aacute;i đẹp cảm gi&aacute;c thoải m&aacute;i v&agrave; tự tin với thiết kế nhẹ nh&agrave;ng nữ t&iacute;nh.&nbsp;<em>Quy&ecirc;n</em>&nbsp;kh&ocirc;ng ngừng cập nhật xu hướng đưa v&agrave;o thiết kế của m&igrave;nh n&ecirc;n bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi lựa chọn sản phẩm&nbsp;<em>&aacute;o kiểu nữ&nbsp;Quy&ecirc;n</em>. Bạn c&oacute; thể phối &aacute;o với quần t&acirc;y, quần kiểu hoặc ch&acirc;n v&aacute;y... t&ugrave;y thuộc v&agrave;o nơi m&igrave;nh đến h&atilde;y&nbsp;lựa chọn kiểu trang phục v&agrave; phụ kiện k&egrave;m theo để c&oacute; 1 set đồ ho&agrave;n hảo c&aacute;c n&agrave;ng nh&eacute;!</p>\n\n<p>&nbsp;</p>\n\n<h3>Th&ocirc;ng tin chi tiết</h3>\n\n<p>- Thương hiệu:&nbsp;<a href=\"file:///C:/Users/DB03/AppData/Local/Temp/TAGFREE/TAGFREE20190812/twe17257751/www.yes24.vn/thuong-hieu/Quy%C3%AAn\" target=\"_blank\">Quy&ecirc;n</a></p>\n\n<p>- Xuất xứ: Việt Nam</p>\n\n<p>- Chất liệu: Th&ocirc; Nhật</p>\n\n<p>- M&agrave;u sắc: Trắng</p>\n\n<p>- Size: S/M/L/XL</p>\n\n<h3>Hướng dẫn chọn size</h3>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/size-ao-Quyen.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/AA349-.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h3>Hướng dẫn bảo quản</h3>\n\n<p>- Giặt ri&ecirc;ng sản phẩm m&agrave;u s&aacute;ng v&agrave; m&agrave;u tối<br />\n- Giặt sản phẩm với nước ở nhiệt độ thường<br />\n- Kh&ocirc;ng n&ecirc;n sử dụng chất tẩy, kh&ocirc;ng xoắn vắt mạnh<br />\n- Ủi mặt tr&aacute;i sản phẩm v&agrave; ủi với nhiệt độ kh&ocirc;ng qu&aacute; 110 độ C<br />\n- N&ecirc;n phơi mặt tr&aacute;i sản phẩm v&agrave; kh&ocirc;ng phơi dưới &aacute;nh nắng trực tiếp.</p>\n",
+      "thoigian": "20-12-2020",
+      "id": 1
+    },
+    {
+      "tensp": "Quần đùi",
+      "iddm": "4",
+      "images": "images/a4.jpg",
+      "giasp": "450000",
+      "giakm": "300000",
+      "soluong": "30",
+      "soluongban": "20",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "<p><strong>&Aacute;o sơ mi kiểu nữ Quy&ecirc;n basic dịu d&agrave;ng AA349</strong>&nbsp;được may từ chất liệu chiffon đem lại cho ph&aacute;i đẹp cảm gi&aacute;c thoải m&aacute;i v&agrave; tự tin với thiết kế nhẹ nh&agrave;ng nữ t&iacute;nh.&nbsp;<em>Quy&ecirc;n</em>&nbsp;kh&ocirc;ng ngừng cập nhật xu hướng đưa v&agrave;o thiết kế của m&igrave;nh n&ecirc;n bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi lựa chọn sản phẩm&nbsp;<em>&aacute;o kiểu nữ&nbsp;Quy&ecirc;n</em>. Bạn c&oacute; thể phối &aacute;o với quần t&acirc;y, quần kiểu hoặc ch&acirc;n v&aacute;y... t&ugrave;y thuộc v&agrave;o nơi m&igrave;nh đến h&atilde;y&nbsp;lựa chọn kiểu trang phục v&agrave; phụ kiện k&egrave;m theo để c&oacute; 1 set đồ ho&agrave;n hảo c&aacute;c n&agrave;ng nh&eacute;!</p>\n\n<p>&nbsp;</p>\n\n<h3>Th&ocirc;ng tin chi tiết</h3>\n\n<p>- Thương hiệu:&nbsp;<a href=\"file:///C:/Users/DB03/AppData/Local/Temp/TAGFREE/TAGFREE20190812/twe17257751/www.yes24.vn/thuong-hieu/Quy%C3%AAn\" target=\"_blank\">Quy&ecirc;n</a></p>\n\n<p>- Xuất xứ: Việt Nam</p>\n\n<p>- Chất liệu: Th&ocirc; Nhật</p>\n\n<p>- M&agrave;u sắc: Trắng</p>\n\n<p>- Size: S/M/L/XL</p>\n\n<h3>Hướng dẫn chọn size</h3>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/size-ao-Quyen.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/AA349-.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h3>Hướng dẫn bảo quản</h3>\n\n<p>- Giặt ri&ecirc;ng sản phẩm m&agrave;u s&aacute;ng v&agrave; m&agrave;u tối<br />\n- Giặt sản phẩm với nước ở nhiệt độ thường<br />\n- Kh&ocirc;ng n&ecirc;n sử dụng chất tẩy, kh&ocirc;ng xoắn vắt mạnh<br />\n- Ủi mặt tr&aacute;i sản phẩm v&agrave; ủi với nhiệt độ kh&ocirc;ng qu&aacute; 110 độ C<br />\n- N&ecirc;n phơi mặt tr&aacute;i sản phẩm v&agrave; kh&ocirc;ng phơi dưới &aacute;nh nắng trực tiếp.</p>\n",
+      "thoigian": "20-12-2020",
+      "id": 2
+    },
+    {
+      "tensp": "Áo phông nền 3d",
+      "iddm": "5",
+      "images": "https://vn-live-01.slatic.net/p/95ae095948e116950e2787971b90dd11.jpg",
+      "giasp": "100000",
+      "giakm": "50000",
+      "soluong": "70",
+      "soluongban": "60",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "20-2-2020",
+      "id": 3
+    },
+    {
+      "tensp": "Áo thun Adidas",
+      "iddm": "5",
+      "images": "https://lamishop.vn/wp-content/uploads/2018/06/ao-thun-nam-adidas-the-thao-2-mau-4.jpg",
+      "giasp": "189000",
+      "giakm": "140000",
+      "soluong": "84",
+      "soluongban": "36",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "20-2-2020",
+      "id": 4
+    },
+    {
+      "tensp": "Váy mùa xuân",
+      "iddm": "6",
+      "images": "https://vn-test-11.slatic.net/p/4ed6c0d6ca331ee438cca82358bada6f.jpg",
+      "giasp": "432000",
+      "giakm": "350000",
+      "soluong": "100",
+      "soluongban": "62",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "4-29-2020",
+      "id": 5
+    },
+    {
+      "tensp": "Áo trung hoa",
+      "iddm": "2",
+      "images": "https://vnphoto.vn/wp-content/uploads/2019/05/image019260.jpg",
+      "giasp": "240000",
+      "giakm": "200000",
+      "soluong": "47",
+      "soluongban": "40",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "20-2-2020",
+      "id": 6
+    },
+    {
+      "tensp": "Quần jogger spun",
+      "iddm": "3",
+      "images": "https://cf.shopee.vn/file/a61450378a8d324716b87ac3989b12ab",
+      "giasp": "265000",
+      "giakm": "230000",
+      "soluong": "100",
+      "soluongban": "68",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "20-2-2020",
+      "id": 7
+    },
+    {
+      "tensp": "Quần baggy hai túi chéo có khuy cài",
+      "iddm": "3",
+      "images": "https://cdn.shopify.com/s/files/1/1833/6251/products/TB2napVagMPMeJjy1XdXXasrXXa__47433246_800x.jpg?v=1579700658",
+      "giasp": "520000",
+      "giakm": "480000",
+      "soluong": "120",
+      "soluongban": "39",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "29-4-2020",
+      "id": 8
+    },
+    {
+      "tensp": "Chân váy chữ A ngắn duyên dáng",
+      "iddm": "6",
+      "images": "https://media3.scdn.vn/img3/2019/9_7/AYUWGP_simg_de2fe0_500x500_maxb.jpg",
+      "giasp": "120000",
+      "giakm": "100000",
+      "soluong": "168",
+      "soluongban": "52",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "thoigian": "5-2-2020",
+      "id": 9
+    },
+    {
+      "tensp": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349",
+      "iddm": "3",
+      "images": "https://file.yes24.vn/Upload/ProductImage/anhduong201605/2040710_L.jpg?width=550&height=550",
+      "giasp": "420000",
+      "giakm": "249000",
+      "soluong": "100",
+      "soluongban": "40",
+      "mota": "Quần kaki kiểu nữ Quyên basic dịu dàng AA349 được may từ chất liệu chiffon đem lại cho phái đẹp cảm giác thoải mái và tự tin với thiết kế nhẹ nhàng nữ tính. Quyên không ngừng cập nhật xu hướng đưa vào thiết kế của mình nên bạn hoàn toàn có thể yên tâm khi lựa chọn sản phẩm áo kiểu nữ Quyên.",
+      "chitietsp": "<p><strong>&Aacute;o sơ mi kiểu nữ Quy&ecirc;n basic dịu d&agrave;ng AA349</strong>&nbsp;được may từ chất liệu chiffon đem lại cho ph&aacute;i đẹp cảm gi&aacute;c thoải m&aacute;i v&agrave; tự tin với thiết kế nhẹ nh&agrave;ng nữ t&iacute;nh.&nbsp;<em>Quy&ecirc;n</em>&nbsp;kh&ocirc;ng ngừng cập nhật xu hướng đưa v&agrave;o thiết kế của m&igrave;nh n&ecirc;n bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi lựa chọn sản phẩm&nbsp;<em>&aacute;o kiểu nữ&nbsp;Quy&ecirc;n</em>. Bạn c&oacute; thể phối &aacute;o với quần t&acirc;y, quần kiểu hoặc ch&acirc;n v&aacute;y... t&ugrave;y thuộc v&agrave;o nơi m&igrave;nh đến h&atilde;y&nbsp;lựa chọn kiểu trang phục v&agrave; phụ kiện k&egrave;m theo để c&oacute; 1 set đồ ho&agrave;n hảo c&aacute;c n&agrave;ng nh&eacute;!</p>\n\n<p>&nbsp;</p>\n\n<h3>Th&ocirc;ng tin chi tiết</h3>\n\n<p>- Thương hiệu:&nbsp;<a href=\"file:///C:/Users/DB03/AppData/Local/Temp/TAGFREE/TAGFREE20190812/twe17257751/www.yes24.vn/thuong-hieu/Quy%C3%AAn\" target=\"_blank\">Quy&ecirc;n</a></p>\n\n<p>- Xuất xứ: Việt Nam</p>\n\n<p>- Chất liệu: Th&ocirc; Nhật</p>\n\n<p>- M&agrave;u sắc: Trắng</p>\n\n<p>- Size: S/M/L/XL</p>\n\n<h3>Hướng dẫn chọn size</h3>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/size-ao-Quyen.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"Áo sơ mi kiểu nữ Quyên basic dịu dàng AA349\" src=\"https://image.yes24.vn/Upload02/CatalogContent201/AA349-.jpg\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h3>Hướng dẫn bảo quản</h3>\n\n<p>- Giặt ri&ecirc;ng sản phẩm m&agrave;u s&aacute;ng v&agrave; m&agrave;u tối<br />\n- Giặt sản phẩm với nước ở nhiệt độ thường<br />\n- Kh&ocirc;ng n&ecirc;n sử dụng chất tẩy, kh&ocirc;ng xoắn vắt mạnh<br />\n- Ủi mặt tr&aacute;i sản phẩm v&agrave; ủi với nhiệt độ kh&ocirc;ng qu&aacute; 110 độ C<br />\n- N&ecirc;n phơi mặt tr&aacute;i sản phẩm v&agrave; kh&ocirc;ng phơi dưới &aacute;nh nắng trực tiếp.</p>\n",
+      "thoigian": "2020-05-23",
+      "id": 10
+    },
+    {
+      "tensp": "Áo khoác Jacket nữ Anta màu đen 86938642-2",
+      "iddm": "1",
+      "images": "https://media3.scdn.vn/img2/2018/8_22/vXeJMu_simg_de2fe0_500x500_maxb.jpg",
+      "giasp": "1279000",
+      "giakm": "1000000",
+      "soluong": "89",
+      "soluongban": "36",
+      "mota": "Áo khoác Jacket nữ Anta màu đen 86938642-2 được thiết kế chuyên biệt cho các hoạt động thể thao, dã ngoại, đi chơi, form vừa vặn, giúp bạn vừa thể hiện phong cách thời trang của mình, vừa thoải mái trong mọi hoạt động, mang lại sự tự tin trước những người xung quanh.",
+      "chitietsp": "<p>THUỘC T&Iacute;NH SẢN PHẨM</p>\n\n<ul>\n\t<li><strong>Chất vải:</strong>&nbsp;Kaki, Vải d&ugrave;.</li>\n\t<li><strong>Phong c&aacute;ch:</strong>&nbsp;Lịch sự.</li>\n\t<li><strong>Họa tiết:</strong>&nbsp;Trơn.</li>\n\t<li><strong>Chiều d&agrave;i tay &aacute;o:</strong>&nbsp;Tay d&agrave;i.</li>\n</ul>\n\n<p>CHI TIẾT SẢN PHẨM</p>\n\n<p>#unisex #streetwear #streetstyle #outfit #quanshort #quandai #aokhoackaki #aokhoactuihop #boxpants #quantuihop #quanshorttuihop #box #shortv #quanshortnu #quanshortnam #baggyau #baggytay #baggythun #destroyjeans #jeans #plaidpants #trackpants #retropants #longtee #longteezipper #ziptee #zippants #zipper</p>\n\n<p><strong>Bảng size:</strong></p>\n\n<p><strong>- Size M:</strong>&nbsp;Dưới 1m65 &ndash; Dưới 60kg</p>\n\n<p><strong>- Size L:</strong>&nbsp;Dưới 1m75 &ndash; Dưới 70kg</p>\n\n<p><strong>- Size XL:</strong>&nbsp;Dưới 1m85 &ndash; Dưới 85kg</p>\n\n<p><br />\n<br />\n<img alt=\"vXeJMu_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/vXeJMu_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"REMtAr_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/REMtAr_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"BZAUpP_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/BZAUpP_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"m8E1b0_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/m8E1b0_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"JMjHpQ_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/JMjHpQ_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"Y7osaV_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/Y7osaV_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"F6yn4T_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/F6yn4T_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"ToD2tk_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/ToD2tk_simg_d0daf0_800x1200_max.jpg\" /><br />\n<br />\n<img alt=\"C4IRVI_simg_d0daf0_800x1200_max.jpg\" src=\"https://media3.scdn.vn/img2/2018/8_22/C4IRVI_simg_d0daf0_800x1200_max.jpg\" /></p>\n",
+      "thoigian": "2020-05-05",
+      "id": 11
+    },
+    {
+      "tensp": "Áo Khoác Nam 4 lớp cao cấp",
+      "iddm": "1",
+      "images": "https://h2tstore.vn/media/product/2822_18_3.jpg",
+      "giasp": "1560000",
+      "giakm": "1350000",
+      "soluong": "256",
+      "soluongban": "123",
+      "mota": "⚠️ Chất liệu dù 2 lớp , dày min, không ra màu, mặc mát và thoải mái!\n⚠️Hàng chuẩn shop , fom cực đẹp\n⚠️ Bên mình hỗ trợ đổi màu, đổi size , đổi khi không vừa ý cho khách nên mọi ngừoi có thể yên tâm ạ!\nKhi nhận hàng có vấn đề gì chỉ cần nhắn tin bên mình sẽ hỗ trợ sớm nhất có thể !\n🔥 Phân loại màu mình để màu đen nhưng bạn mua sẽ đủ 4 màu như hình ạ!",
+      "chitietsp": "<p><strong>&Aacute;O KHO&Aacute;C NAM CỰC CHẤT</strong></p>\n\n<p>L&agrave; một trong những mẫu &aacute;o mới nhất trong bộ sưu tập Thu-Đ&ocirc;ng tại H2T.&nbsp;<strong>&Aacute;o kho&aacute;c nam AK-0860</strong>&nbsp;với kiểu d&aacute;ng trẻ trung chắc chắn l&agrave; sự lựa chọn ho&agrave;n hảo cho m&ugrave;a đ&ocirc;ng năm nay.</p>\n\n<p><strong>Chất liệu:</strong>&nbsp;Vải gi&oacute; cao cấp.</p>\n\n<p><strong>Thiết kế &aacute;o:&nbsp;</strong></p>\n\n<ul>\n\t<li>T&uacute;i &aacute;o thiết kế mới mẻ, bắt mắt. Sọc pha m&agrave;u ở tay &aacute;o tạo điểm nhấn cho &aacute;o</li>\n\t<li>Mẫu &aacute;o&nbsp;<strong>kho&aacute;c nam AK-0860</strong>&nbsp;với thiết kế &aacute;o k&egrave;m mũ, d&aacute;ng su&ocirc;ng gấu bo chun giữ nhiệt tốt, &aacute;o c&oacute; 2 lớp gi&uacute;p chắn gi&oacute;, chống nước nhẹ.</li>\n</ul>\n\n<p><strong>M&agrave;u sắc:</strong>&nbsp;Đen v&agrave;ng, Đen ghi</p>\n\n<p><strong>Size hiện c&oacute;:</strong>&nbsp;M, L, XL, XXL, XXXL</p>\n\n<p><strong>Mix and Match:</strong>&nbsp;</p>\n\n<ul>\n\t<li>&Aacute;o gi&oacute; được đ&aacute;nh gi&aacute; l&agrave; sản phẩm dễ mix đồ nhất cho những anh ch&agrave;ng kh&ocirc;ng biết c&aacute;ch phối đồ, bởi chỉ cần một chiếc &aacute;o thun b&ecirc;n trong v&agrave; một chiếc quần Jean c&aacute; t&iacute;nh l&agrave; đủ l&agrave;m cho bạn trở n&ecirc;n năng động, trẻ trung hơn.</li>\n\t<li>Ngo&agrave;i ra bạn cũng c&oacute; thể phối c&ugrave;ng một chiếc &aacute;o len mỏng để c&oacute; thể giữ ấm cơ thể trong m&ugrave;a đ&ocirc;ng năm nay.</li>\n</ul>\n\n<p><strong>=&gt; Xem th&ecirc;m:</strong>&nbsp;<a href=\"https://h2tstore.vn/thoi-trang-mua-dong.html\">99+ Mẫu &aacute;o kho&aacute;c nam mới nhất năm 2019!</a></p>\n\n<p><strong>H&igrave;nh ảnh chi tiết sản phẩm &aacute;o kho&aacute;c nam AK-0860:</strong></p>\n\n<p><img alt=\"\" src=\"https://h2tstore.vn/media/product/2822_18_4.jpg\" /><img alt=\"\" src=\"https://h2tstore.vn/media/product/2822_18_3.jpg\" /><img alt=\"\" src=\"https://h2tstore.vn/media/product/2822_18_2.jpg\" /><img alt=\"\" src=\"https://h2tstore.vn/media/product/2822_18_5.jpg\" /><img alt=\"\" src=\"https://h2tstore.vn/media/product/2822_18_6.jpg\" /></p>\n",
+      "thoigian": "2020-05-16",
+      "id": 12
+    }
+  ],
+  "tintuc": [
+    {
+      "id": 1,
+      "tieude": "Phương pháp lựa chọn quần jeans cho nữ",
+      "images": "https://thoitrangngaynay.com/upload/images/quan-jeans-nu.jpg",
+      "mota": "Các bạn nữ luôn muốn chọn cho mình sự hoàn hảo nhất đặc biệt là trong việc chọn lựa chọn mình những bộ cánh xinh xắn. Hôm nay chúng ta cùng bàn về câu chuyện chọn quần jeans phù hợp cho các nàng nhé!.",
+      "chitiet": "<p>00:07:33 05-07-2018 | Lượt xem: 803</p>\n\n<h2><strong>C&aacute;c bạn nữ lu&ocirc;n muốn chọn cho m&igrave;nh sự ho&agrave;n hảo nhất đặc biệt l&agrave; trong việc chọn lựa chọn m&igrave;nh những bộ c&aacute;nh xinh xắn. H&ocirc;m nay ch&uacute;ng ta c&ugrave;ng b&agrave;n về c&acirc;u chuyện chọn quần jeans ph&ugrave; hợp cho c&aacute;c n&agrave;ng nh&eacute;!</strong></h2>\n\n<p><img alt=\"Phương pháp lựa chọn quần jeans cho nữ \" src=\"https://thoitrangngaynay.com/upload/images/nu-mang-quan-jeans-dep.jpg\" style=\"height:686px; width:686px\" /></p>\n\n<p>C&aacute;ch chọn một chiếc quần jeans đ&uacute;ng sẽ t&ocirc;n d&aacute;ng của bạn l&ecirc;n rất&nbsp;</p>\n\n<h3><strong>xu hướng quần jean nữ hiện tại</strong></h3>\n\n<p>&aacute;o thun nam nữ, l&agrave;m cho dể thương,.. L&agrave; nhu cầu chẳng thể thiếu của chị em nữ giới.&nbsp;<a href=\"https://thoitrangngaynay.com/quan-dui-jean-nu-ngan\"><strong>Quần đ&ugrave;i jeans nữ</strong></a>&nbsp;đẹp&nbsp;N&oacute; như l&agrave; những m&oacute;n phụ kiện gi&uacute;p những n&agrave;ng trở n&ecirc;n lộng lẫy, chỉnh chu hơn trước bao &aacute;nh nh&igrave;n. y phục phải ph&ugrave; hợp với m&ocirc;i trường, c&ocirc;ng t&aacute;c, đặc điểm, cao cấp của bản th&acirc;n 1 c&aacute;ch chuy&ecirc;n nghiệp, để tạo được cảm t&igrave;nh, sự t&ocirc;n trọng, ch&uacute; &yacute; của c&aacute;c người quanh đ&oacute;.</p>\n\n<p>c&ugrave;ng với những&nbsp;bộ c&aacute;nh&nbsp;dễ thương, ngọt ng&agrave;o, những loại đầm nhẹ nh&agrave;ng, tinh tế gợi sự mảnh dẻ, dịu d&agrave;ng, dễ thương cho c&ocirc; n&agrave;ng. những bộ trang phục thể thao trẻ trung, ti&ecirc;n tiến, quần jeans phối hợp &aacute;o ph&ocirc;ng, sẽ đem đến một đẳng cấp cực chất, s&agrave;nh điệu để c&aacute;c g&aacute;i tự tin, sải bước xuống phố.</p>\n\n<p>Đ&acirc;y l&agrave; xu hướng thời trang kh&ocirc;ng bao giờ bị lỗi mốt, được rất nhiều C&aacute;c bạn trẻ, nhắc cả đ&agrave;n b&agrave; ở mọi lứa tuổi ưa th&iacute;ch. H&atilde;y tham khảo b&agrave;i viết dưới đ&acirc;y, để c&oacute; thể tuyển lựa cho m&igrave;nh 1 mẫu &aacute;o jeans vừa mang&nbsp;d&aacute;ng&nbsp;người, l&ecirc;n d&aacute;ng chuẩn nhất nh&eacute;.&nbsp;<a href=\"https://thoitrangngaynay.com/dam-vay-nu-dep\"><strong>đầm v&aacute;y nữ đẹp</strong></a></p>\n\n<h3><strong>c&aacute;ch thức chọn size &aacute;o jeans nữ</strong></h3>\n\n<p>Để chọn được size quần l&ecirc;n&nbsp;d&aacute;ng&nbsp;chuẩn nhất, bạn phải x&aacute;c định được chiều cao, c&acirc;n nặng, d&aacute;ng người cũng như số đo c&aacute;c v&ograve;ng của m&igrave;nh. V&agrave; sau ngừng thi c&ocirc;ng. Đ&acirc;y sẽ c&acirc;n đối để sở hữu mẫu m&atilde; quần bằng l&ograve;ng nhất.</p>\n\n<p>X&aacute;c định số đo v&ograve;ng eo, v&agrave; v&ograve;ng&nbsp;</p>\n\n<p>Sau Đ&oacute; tới đo v&ograve;ng - để &aacute;o l&ecirc;n&nbsp;d&aacute;ng&nbsp;vừa sở hữu người nhất, l&agrave;m bạn kh&ocirc;ng bị &lsquo;&rsquo;nuốt tr&ocirc;i&rsquo;&rsquo; trong những d&ograve;ng quần thời trang cơ m&agrave; rộng l&ugrave;ng th&ugrave;ng, tr&ocirc;ng kh&ocirc;ng dể thương mắt, v&agrave; mất hẳn đi gi&aacute; trị của n&oacute;.</p>\n\n<p>Đo chiều d&agrave;i, trong thời gian b&iacute; quyết trong khoảng đũng đến cạp quần</p>\n\n<p>với mỗi d&aacute;ng người, chiều cao m&agrave; bạn n&ecirc;n lựa chọn độ d&agrave;i, ngắn kh&aacute;c nhau để kh&ocirc;ng bị&nbsp;hay t&igrave;nh trạng cũn cỡn, l&uacute;c mặc. khoảng b&iacute; quyết từ đũng &aacute;o đến cạp phải đảm bảo l&yacute; tưởng nhất để c&aacute;c c&ocirc; n&agrave;ng ko với cảm gi&aacute;c, kh&oacute; chịu, g&ograve; b&oacute;, bị k&iacute;ch, sẽ khiến cho mất đi vẻ tự t&iacute;n, thoả th&iacute;ch.&nbsp;<a href=\"https://thoitrangngaynay.com/do-bo-nu-mac-nha\"><strong>Đồ bộ nữ ở nh&agrave; đẹp</strong></a></p>\n\n<p>Kiểu &aacute;o jeans cạp cao hay cạp trễ sẽ sở hữu bề ngo&agrave;i cũng như k&iacute;ch thước l&agrave; kh&aacute;c nhau. c&oacute; những chị em c&ocirc;ng sở, hay c&ocirc;ng t&aacute;c phải ngồi phổ th&ocirc;ng, đi lại th&igrave; mẫu &aacute;o jeans cạp cao l&agrave; sự tuyển lựa ho&agrave;n hảo, an to&agrave;n. N&oacute; l&agrave;m những qu&yacute; c&ocirc; ph&aacute;t triển th&agrave;nh đẳng cấp, đứng đắn m&agrave; vẫn v&ocirc; c&ugrave;ng s&agrave;nh điệu, ko qu&aacute; hở hang.</p>\n\n<p>&nbsp;</p>\n\n<p>C&ograve;n những c&ocirc; n&agrave;ng trẻ trung, cao cấp hơn, những c&ocirc; g&aacute;i đ&ocirc;i mươi sở hữu thể h&agrave;i h&ograve;a &aacute;o jeans cạp cao c&oacute; &aacute;o crop top. Hay những mẫu m&atilde; &aacute;o cạp trễ đầy quyến rũ.</p>\n\n<h3><strong>Tham khảo bảng chọn size quần jeans nữ căn bản</strong>phương ph&aacute;p chọn quần jeans nữ th&iacute;ch hợp mang d&aacute;ng người</h3>\n\n<p>c&oacute; những c&ocirc; n&agrave;ng mang d&aacute;ng người&nbsp;phần eo kh&aacute; nhỏ, n&ecirc;n chọn những c&aacute;i &aacute;o jeans cạp cao, phần ống &aacute;o tương đối rộng, loe ra từ phần đầu gối để t&ocirc;n l&ecirc;n vẻ đẹp thon thả, hấp dẫn.<strong><a href=\"https://thoitrangngaynay.com/ao-so-mi-nu-dep\">&nbsp;&Aacute;o sơ mi nữ đẹp</a></strong></p>\n\n<p><img alt=\"Phương pháp lựa chọn quần jeans cho nữ \" src=\"https://thoitrangngaynay.com/upload/images/quan-jeans-nu.jpg\" style=\"height:750px; width:500px\" /></p>\n\n<p>Bạn nữ xinh trong quần jeans năng động</p>\n\n<p>&aacute;o hay&nbsp; jeans lại kh&ocirc;n xiết ph&ugrave; hợp cho c&aacute;c c&ocirc; n&agrave;ng thanh mảnh, nhỏ nhắn, mảnh mai. Bạn chỉ cần lựa chọn cho m&igrave;nh một đ&ocirc;i gi&agrave;y cao g&oacute;t nhọn, hoặc gi&agrave;y đế bệt cũng t&ocirc;n l&ecirc;n vẻ dể thương, thần th&aacute;i m&ocirc; tả phong c&aacute;ch cao cấp &yacute; tưởng ri&ecirc;ng.</p>\n",
+      "iduser": "2",
+      "thoigian": "2020-04-25"
+    },
+    {
+      "tieude": "Cách mặc đồ cho nam có dáng người gầy ốm",
+      "images": "https://thoitrangngaynay.com/upload/images/cach_chon_va_mac_dan_ong_gay.jpg",
+      "mota": "Bí kíp mặc đồ lên cân cho các cô nàng gầy thẳng. Chỉ cần bỏ túi vài phương pháp dưới đây, thân hình cò hương của bạn sẽ được cải thiện đáng kể và phát triển thành cân đối, đầy đặn hơn trong mắt người đối diện.",
+      "chitiet": "<p>00:36:40 03-07-2018 | Lượt xem: 1010</p>\n\n<p>B&Iacute; K&Iacute;P MẶC ĐỒ L&Ecirc;N C&Acirc;N CHO C&Aacute;C C&Ocirc; N&Agrave;NG GẦY NHẲNG</p>\n\n<p>Chỉ cần bỏ t&uacute;i v&agrave;i phương ph&aacute;p dưới đ&acirc;y, th&acirc;n h&igrave;nh c&ograve; hương của bạn sẽ được cải thiện đ&aacute;ng kể v&agrave; ph&aacute;t triển th&agrave;nh c&acirc;n đối, đầy đặn hơn trong mắt người đối diện.&nbsp;<a href=\"https://thoitrangngaynay.com/ao-khoac-nam-dep\"><strong>&aacute;o kho&aacute;c nam đẹp</strong></a></p>\n\n<p><img alt=\"CÁCH MẶC ĐỒ CHO NAM CÓ DÁNG NGƯỜI GẤY ỐM\" src=\"https://thoitrangngaynay.com/upload/images/cach_chon_va_mac_dan_ong_gay.jpg\" style=\"height:390px; width:520px\" /></p>\n\n<p>C&Aacute;CH MẶC ĐỒ CHO NAM C&Oacute; D&Aacute;NG NGƯỜI GẤY ỐM</p>\n\n<p>với 1 v&oacute;c d&aacute;ng gầy mảnh mai, trong mắt người nh&igrave;n th&igrave; người n&agrave;o cũng sẽ nghĩ bạn rất dễ chọn v&agrave; mặc đồ, hầu hết m&oacute;n đồ n&agrave;o cũng mặc rất t&ocirc;n d&aacute;ng. Thế nhưng thực tiễn l&agrave; kh&ocirc;ng hề như vậy. Th&acirc;n h&igrave;nh gầy nhẳng mang thể khiến bạn cảm thấy ki&ecirc;u h&atilde;nh l&uacute;c thuận lợi mặc vừa đ&ocirc;ng đảo trang phục thời thượng, nhưng lại mang nhược điểm l&agrave; lấy đi ở bạn sự gợi cảm, quyến rũ - vốn l&agrave; nguy&ecirc;n tố quan yếu h&agrave;ng đầu trong việc tạo n&ecirc;n sức hấp dẫn đối sở hữu người đối diện. V&agrave; đặc biệt, chỉ cần lựa chọn sai trang phục, c&aacute;c bất lợi về một v&oacute;c d&aacute;ng gầy guộc sẽ hiện ra r&otilde; mồn một.&nbsp;<a href=\"https://thoitrangngaynay.com/ao-so-mi-nam-dep\"><strong>&aacute;o sơ mi nam đẹp</strong></a></p>\n\n<p>&nbsp;</p>\n\n<p>th&iacute; dụ đơn giản nhất cho trang phục kh&ocirc;ng li&ecirc;n quan sở hữu người gầy ch&iacute;nh l&agrave; v&aacute;y maxi, d&aacute;ng v&aacute;y vốn dĩ d&agrave;i tha thướt n&ecirc;n c&agrave;ng khiến cho th&acirc;n thể như k&egrave;o d&agrave;i ra tr&ocirc;ng đ&atilde; gầy lại c&agrave;ng th&ecirc;m mảnh khảnh. Trong h&igrave;nh, H&agrave; n&acirc;ng cao đ&atilde; chọn v&aacute;y maxi hai d&acirc;y lộ r&otilde; nhược điểm bờ vai gầy xương x&oacute;c của m&igrave;nh.</p>\n\n<p>Quần skinny cũng l&agrave; một m&oacute;n đồ cần hạn chế, bởi thiết kế đặc trưng l&agrave; ấp ủ s&aacute;t lộ r&otilde; đ&ocirc;i ch&acirc;n khẳng khiu của H&agrave; n&acirc;ng cao.</p>\n\n<p>Trong h&igrave;nh, đ&ocirc;i ch&acirc;n gầy v&agrave; cong của tăng Thanh H&agrave; bị lộ mồn 1 l&uacute;c người đẹp xinh mặc quần skinny tối m&agrave;u v&agrave; đi gi&agrave;y cao g&oacute;t. c&aacute;i &aacute;o pull in h&igrave;nh tone đen-trắng, d&aacute;ng oversized lại c&agrave;ng khiến lộ phần vai, cổ, c&aacute;nh tay c&ugrave;ng đ&ocirc;i ch&acirc;n gầy guộc.</p>\n\n<p>Trước nỗi l&ograve;ng của c&aacute;c c&ocirc; n&agrave;ng gầy nhẳng muốn cải thiện v&oacute;c d&aacute;ng qua trang phục, shop đưa tới bạn một đ&ocirc;i c&aacute;ch thức mặc dể thương t&ocirc;n d&aacute;ng cho người gầy. Bạn sẽ c&oacute; c&aacute;c chọn lọc đ&uacute;ng đắn v&agrave; an to&agrave;n nhất vừa giải quyết nhược điểm lại vừa tạo cảm gi&aacute;c c&acirc;n đối hơn cho v&oacute;c d&aacute;ng của m&igrave;nh.</p>\n\n<p>ko mặc đồ qu&aacute; ấp ủ hay qu&aacute; rộng</p>\n\n<p>một trong những b&iacute; k&iacute;p mấu chốt m&agrave; c&aacute;c c&ocirc; n&agrave;ng gầy c&ograve;m nhom n&ecirc;n bỏ t&uacute;i chậm tiến độ l&agrave; lưu &yacute; đến độ rộng/ chật của trang phục. nếu biết c&aacute;ch chọn kh&eacute;o l&eacute;o th&igrave; cho d&ugrave; m&agrave;u s&aacute;ng hay tối, người gầy đ&eacute;t như bạn vẫn sở hữu thể chinh phục được. mang b&iacute; k&iacute;p ăn mặc n&agrave;y, v&iacute; như muốn m&igrave;nh b&eacute;o l&ecirc;n nhận ra, đừng tr&ocirc;ng cậy v&agrave;o những bộ trang phục qu&aacute; phổ biến để rồi bạn sẽ bị nhấn ch&igrave;m trong chậm triển khai. kh&ocirc;ng những vậy c&aacute;c d&ograve;ng v&aacute;y đầm ấp ủ s&aacute;t body cũng ko đ&iacute;ch thực ph&ugrave; hợp c&oacute; bạn đ&acirc;u nh&eacute;, nếu như kh&ocirc;ng muốn bị gầy trơ xương h&atilde;y chọn những set đồ vừa c&oacute; người kh&ocirc;ng qu&aacute; ấp ủ s&aacute;t cũng ko qu&aacute; rộng lụng thụng qu&aacute;.&nbsp;</p>\n\n<p>N&ecirc;n mặc đồ theo bắt mắt layering</p>\n\n<p>nếu như bạn l&agrave; một c&ocirc; g&aacute;i tr&ograve;n trịa th&igrave; b&iacute; k&iacute;p ăn mặc n&agrave;y kh&ocirc;ng d&agrave;nh cho bạn. trong khi Đ&oacute; mang c&ocirc; g&aacute;i mang d&aacute;ng người tuy c&ograve; hương, g&agrave;y nhẳng nhưng c&aacute;ch thức phối đồ n&agrave;y lại đem đến cho bạn vẻ ngo&agrave;i b&eacute;o l&ecirc;n nhận ra. những lớp quần &aacute;o đan xen nhau l&agrave; b&iacute; k&iacute;p gi&uacute;p bạn gian lận c&acirc;n nặng che dấu đi nhược điểm th&acirc;n thể ngẳng nghiu của m&igrave;nh. c&aacute;ch thức mix đồ nữ theo bắt mắt layer rất đơn giản: 1 loại v&aacute;y nữ t&iacute;nh kho&aacute;c ngo&agrave;i mẫu cardigan mỏng, hay mặc &aacute;o ph&ocirc;ng khỏe khoắn, kho&aacute;c ngo&agrave;i l&agrave; loại sơ mi cũng l&agrave; c&aacute;ch thức để bạn tăng th&ecirc;m da l&agrave;m thịt cho m&igrave;nh ấy.</p>\n\n<p>&Aacute;o c&oacute; chi tiết cầu kỳ/c&aacute;ch điệu</p>\n\n<p>Tuyệt chi&ecirc;u tiếp theo nằm ở ch&iacute;nh những nhu cầu cầu k&igrave; tr&ecirc;n th&acirc;n &aacute;o. giả dụ c&aacute;c c&ocirc; n&agrave;ng tr&ograve;n trịa thường phải hạn chế xa c&aacute;c loại &aacute;o n&agrave;y, th&igrave; n&oacute; lại trở th&agrave;nh cứu c&aacute;nh của số đ&ocirc;ng qu&yacute; c&ocirc; m&igrave;nh d&acirc;y. bởi vậy, &aacute;o c&oacute; C&aacute;ch thức xếp b&egrave;o nh&uacute;m vừa phải, &aacute;o len mỏng th&ecirc;m v&agrave;i hướng dẩn cầu kỳ sẽ gi&uacute;p &iacute;ch cho bạn đ&ocirc;ng đảo đấy.</p>\n\n<p><img alt=\"CÁCH MẶC ĐỒ CHO NAM CÓ DÁNG NGƯỜI GẤY ỐM\" src=\"https://thoitrangngaynay.com/upload/images/cach-mac-do-nam-dep-cho-nguoi-gay.jpg\" style=\"height:438px; width:569px\" /></p>\n\n<p>C&Aacute;CH MẶC ĐỒ CHO NAM C&Oacute; D&Aacute;NG NGƯỜI GẤY ỐM</p>\n\n<p>Quần jeans rộng</p>\n\n<p>Cũng giống như &aacute;o v&aacute;y, những c&aacute;i quần được chỉ định cho c&ocirc; n&agrave;ng si&ecirc;u gầy cũng được dừng ở những c&aacute;i quần phổ th&ocirc;ng, thoải m&aacute;i như baggy, boyfriend jeans, quần &acirc;u ống đứng. Bởi chỉ những m&oacute;n đồ y phục n&agrave;y mới ko l&agrave;m lộ ra đ&ocirc;i ch&acirc;n khẳng kheo v&agrave; n&acirc;ng cao th&ecirc;m d&aacute;ng vẻ lả lướt cho người mặc.</p>\n\n<p>V&aacute;y/ch&acirc;n v&aacute;y ko qu&aacute; d&agrave;i</p>\n\n<p>Bất kỳ d&aacute;ng v&aacute;y n&agrave;o qu&aacute; d&agrave;i rộng đều bất lợi cho v&oacute;c d&aacute;ng của bạn, đặc th&ugrave; l&agrave; maxi. Bạn gầy n&ecirc;n d&aacute;ng người tr&ocirc;ng rất cao v&agrave; mảnh mai, vậy n&ecirc;n maxi hay c&aacute;c kiểu v&aacute;y d&agrave;i sẽ c&agrave;ng khiến cho th&acirc;n h&igrave;nh th&ecirc;m khẳng khiu. Thay v&agrave;o ngừng thi c&ocirc;ngĐ&acirc;y h&atilde;y chọn nhưng ngoại h&igrave;nh v&aacute;o xo&egrave; hoặc su&ocirc;ng nhẹ. Chiều d&agrave;i cũng đừng chạm đất như maxi m&agrave; chỉ cần ngang gối hay qua gối một tẹo l&agrave; hợp l&yacute;. Bạn cũng kh&ocirc;ng n&ecirc;n mặc qu&aacute; ngắn v&igrave; n&oacute; sẽ tố l&ecirc;n đ&ocirc;i ch&acirc;n xương gầy của bạn.&nbsp;&nbsp;<strong><a href=\"https://thoitrangngaynay.com/ao-thun-nam-dep\">&aacute;o thun nam đẹp</a></strong></p>\n\n<p>Đồ kẻ ngang, họa tiết mềm mạ</p>\n\n<p>Về mặt họa tiết, để đ&aacute;nh lừa người đối diện c&oacute; 1 th&acirc;n h&igrave;nh đầy đặn hơn, bạn n&ecirc;n chọn c&aacute;c c&aacute;i &aacute;o với họa tiết kẻ ngang bản lớn mang gam m&agrave;u s&aacute;ng như trắng hay pastel. ngo&agrave;i ra, c&aacute;c họa tiết đơn thuần như hoa cỏ, chấm bi hay bất kỳ những hoa văn, họa tiết n&agrave;o với con đường n&eacute;t mềm mại, ngẫu hứng... Sẽ đem lại cảm gi&aacute;c tr&ograve;n đầy hơn cho v&oacute;c d&aacute;ng.</p>\n\n<p>Th&acirc;n h&igrave;nh gầy n&otilde;n n&agrave; lu&ocirc;n l&agrave; ước mong của phổ biến c&ocirc; g&aacute;i. Song giả dụ bạn c&oacute; cơ địa gầy tr&ugrave;ng hợp, hẳn đ&atilde; nhiều lần bạn cảm thấy kh&oacute; chịu v&agrave; băn khoăn khiến cho phương ph&aacute;p n&agrave;o để ph&aacute;t triển th&agrave;nh đầy đặn hơn.</p>\n\n<p>Sau đ&acirc;y l&agrave; 8 c&aacute;ch phối đồ cho người gầy do .gợi &yacute; để bạn sở hữu thể &ldquo;tạo th&ecirc;m&rdquo; những c&aacute;c con phố cong cho vẻ ngo&agrave;i của m&igrave;nh hay đơn thuần để &ldquo;che dấu&rdquo; đi th&acirc;n h&igrave;nh mỏng manh:</p>\n\n<p>Skinny jeans, item c&aacute; t&iacute;nh kh&ocirc;ng thể thiếu của bất kỳ người n&agrave;o, nhưng sở hữu thể l&agrave;m c&aacute;c c&ocirc; n&agrave;ng đ&atilde; gầy ph&aacute;t triển th&agrave;nh &ldquo;khẳng khiu&rdquo; hơn nữa. Ch&iacute;nh v&igrave; vậy m&agrave; quần ống loe v&agrave; culottes sẽ l&agrave; b&iacute; quyết phối đồ cho người gầy chất lượng, khiến cho người bạn đồng h&agrave;nh đắc lực gi&uacute;p cơ thể bạn trở n&ecirc;n đầy đặn hơn. Chưa n&oacute;i, chọn lựa d&ograve;ng quần sở hữu cạp cao mang thể gi&uacute;p bạn tạo th&ecirc;m tuyến đường cong v&ograve;ng eo</p>\n\n<p>Đầm v&agrave; ch&acirc;n v&aacute;y chữ A d&aacute;ng xo&egrave; c&oacute; khả năng tạo th&ecirc;m hiệu ứng v&ograve;ng eo v&agrave; che đi v&ograve;ng h&ocirc;ng nhỏ của c&aacute;c c&ocirc; g&aacute;i mang th&acirc;n h&igrave;nh gầy v&agrave; thẳng</p>\n\n<p>c&aacute;c mẫu v&aacute;y mang bề ngo&agrave;i tối giản d&aacute;ng su&ocirc;ng c&ugrave;ng chiều ngang nhiều l&agrave; b&iacute; quyết phối đồ sở hữu thể gi&uacute;p bạn tr&ocirc;ng cao nh&atilde; v&agrave; tinh tế tuyệt đối v&agrave; che đi khuyến điểm th&acirc;n h&igrave;nh.</p>\n\n<p>H&atilde;y thử kết hợp xu hướng thời trang layer mang kh&ocirc;ng khuyến kh&iacute;ch bạn mặc &aacute;o cardigan bởi chất liệu ấp ủ s&aacute;t người mang thể l&agrave;m th&acirc;n h&igrave;nh bạn trở th&agrave;nh gầy hơn nữa.trang phục in hoạt tiết hoặc trang phục sọc ngang l&agrave; 1 b&iacute; quyết c&oacute; &iacute;ch gi&uacute;p đ&aacute;nh lạc hướng tầm nh&igrave;n v&agrave; che đi th&acirc;n h&igrave;nh gầy g&ograve; của bạn. những trang phục sở hữu hoa văn in c&agrave;ng lớn c&ugrave;ng mang t&aacute;c dụng cao. ngo&agrave;i ra, c&aacute;c c&ocirc; n&agrave;ng n&ecirc;n tuyệt đối giảm thiểu c&aacute;c hoạ tiết sọc dọc khiến bạn đ&atilde; gầy c&agrave;ng th&ecirc;m gầy nh&eacute;.Lợi thế của c&aacute;c c&ocirc; n&agrave;ng mảnh dẻ ch&iacute;nh l&agrave; v&ograve;ng eo con kiến phổ qu&aacute;t người ước ao. th&agrave;nh ra, sao phải ngại ngần m&agrave; kh&ocirc;ng tận dụng điểm hay h&igrave;nh thế n&agrave;y của m&igrave;nh? c&aacute;ch thức phối đồ cho người gầy th&ocirc;ng minh nhất l&agrave; mix &aacute;o croptop của bạn cộng ch&acirc;n v&aacute;y cạp cao hoặc quần jeans cho một vẻ ngo&agrave;i thu h&uacute;t &aacute;nh nh&igrave;n!hướng dẩn viền nh&uacute;n trong trang phục ko chỉ tăng sự sang trọng, nữ t&iacute;nh cho ngoại h&igrave;nh m&agrave; c&ograve;n tạo th&ecirc;m đường cong quyến rũ cho ph&aacute;i nữ. Đ&acirc;y cũng l&agrave; một c&aacute;ch thức phối đồ m&agrave; nhiều n&agrave;ng sở hữu thể chưa biết. do đ&oacute;, h&atilde;y &ldquo;ứng dụng&rdquo; ngay nh&eacute;.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Thắt lưng! Bất n&oacute;i bản lớn hay nhỏ đều gi&uacute;p b&iacute; quyết phối đồ cho người gầy trở n&ecirc;n ho&agrave;n hảo. H&atilde;y h&agrave;i h&ograve;a ch&uacute;ng c&oacute; những chiếc v&aacute;y hay &aacute;o bập bềnh, oversize của bạn để tạo th&ecirc;m điểm thu h&uacute;t ở v&ograve;ng eo v&agrave; che đi v&ograve;ng h&ocirc;ng nhỏ.</p>\n",
+      "iduser": "2",
+      "thoigian": "4/30/2020",
+      "id": 2
+    },
+    {
+      "tieude": "Cách chọn vest phù hợp cho nam",
+      "images": "https://thoitrangngaynay.com/upload/sanpham/cach-chon-vest-phu-hop-cho-nam-56-1.jpg",
+      "mota": "Vest là một trang phục lịch lãm cho quý ông, không hề chỉ mặc vest khi với tiệc tùng, hội nghị hoặc có sự kiện vượt trội mà bạn sở hữu thể thả sức phối đồ đi chơi 1 cách thức phong cách bánh bèo.",
+      "chitiet": "<p>01:11:27 05-07-2018 | Lượt xem: 566</p>\n\n<h1><strong>Vest dường như l&agrave; biểu tượng của sự lịch l&atilde;m cho ph&aacute;i mạnh. Nhưng lại c&oacute; rất nhiều ch&agrave;ng vẫn chưa biết c&aacute;ch thức chọn cho m&igrave;nh một bộ vest ph&ugrave; hợp. H&ocirc;m nay ch&uacute;ng ta c&ugrave;ng gi&uacute;p cho những ch&agrave;ng trai ấy nh&eacute;!</strong></h1>\n\n<p><img alt=\"Cách chọn vest phù hợp cho nam\" src=\"https://thoitrangngaynay.com/upload/images/Ch%E1%BB%8Dn-%C3%A1o-vest-v%C3%A0-gi%C3%A0y-nam-%C4%91%E1%BA%B9p-cho-qu%C3%BD-%C3%B4ng.jpg\" style=\"height:427px; width:590px\" /></p>\n\n<p>vest nam lịch l&atilde;m</p>\n\n<p><strong>Ti&ecirc;u chuẩn chọn &aacute;o vest nam dể thương</strong></p>\n\n<p>c&oacute; &aacute;o vest nam theo phong c&aacute;ch lịch sự, quần phải d&agrave;i đủ vạt &aacute;o chạm đến ng&oacute;n tay mẫu l&uacute;c kh&eacute;p tay. sở hữu những chiếc &aacute;o vest nam trẻ trung, qu&acirc;̀n &aacute;o thun gi&agrave;nh cho c&aacute;c người trẻ tuổi, độ d&agrave;i sở hữu thể ngắn hơn từ chiều ngang &aacute;o phải ấp ủ vừa s&aacute;t v&ograve;ng ngực k&iacute;ch cỡ bề ngang &aacute;o ấp ủ vừa s&aacute;t theo v&ograve;ng ngực m&agrave; vẫn đảm bảo về chất lượng cử động thoải m&aacute;i của tay l&uacute;c mặc.</p>\n\n<p>&nbsp;<strong><a href=\"https://thoitrangngaynay.com/ao-thun-cap-doi-dep\">&aacute;o thun cặp đ&ocirc;i đẹp</a></strong><strong>&nbsp;</strong>Bạn cao hay thấp? vạm vỡ hay nhỏ con? lặng t&acirc;m, ki&ecirc;n cố sẽ mang kiểu vest th&iacute;ch hợp c&oacute; bạn. c&ugrave;ng xem ngay c&aacute;ch thức chọn vest cho từng d&aacute;ng người được tổng hợp trong khoảng&nbsp;nh&eacute;!</p>\n\n<p><strong>C&aacute;ch chọn vest nam cho người cao tong teo</strong></p>\n\n<p>- Đừng mặc sọc dọc v&igrave; tr&ocirc;ng bạn sẽ kh&ocirc; h&eacute;o. Sọc ngang to ở v&ugrave;ng ngực sở hữu thể l&agrave;m vai bạn rộng hơn.</p>\n\n<p>-Tr&aacute;nh đơn sắc. v&iacute; như chỉ mặc bộ vest nam 1 m&agrave;u từ đầu đến ch&acirc;n, đặc th&ugrave; l&agrave; m&agrave;u đen, bạn sẽ tong teo ốm hơn. v&igrave; thế, n&ecirc;n ngắt c&aacute;i nh&igrave;n ra bằng c&aacute;ch thức mặc v&agrave;i m&agrave;u kh&aacute;c nhau.</p>\n\n<p>- Chọn &aacute;o sơ mi nam vừa vặn vẹo. Sơ mi th&ugrave;ng th&igrave;nh, kh&ocirc;ng gọn g&agrave;ng sẽ l&agrave;m bạn giống như c&acirc;y cột buồm. tuy nhi&ecirc;n, chiếc quần vest nam qu&aacute; &ocirc;m ấp người cũng sẽ nhấn th&acirc;n tr&ecirc;n ốm nh&aacute;ch g&ograve; của bạn.</p>\n\n<p>-Tr&aacute;nh gi&agrave;y mũi nhọn v&igrave; sẽ khiến bạn tr&ocirc;ng kh&ocirc;ng c&acirc;n đối. Để c&acirc;n bằng, n&ecirc;n đi gi&agrave;y thể thao gi&aacute; rẻ mũi vu&ocirc;ng, hay kh&iacute;a cạnh. v&iacute; như chơi ph&ograve;ng tập thể thao, gi&agrave;y mũi vu&ocirc;ng tương đối kh&oacute; t&igrave;m, bạn n&ecirc;n hạn chế mẫu qu&aacute; tr&ograve;n m&agrave; th&ocirc;i</p>\n\n<p>b&iacute; quyết chọn vest nam m&agrave;u s&aacute;ng: những bộ vest m&agrave;u trắng, kem, xanh dương nhạt, x&aacute;m nhạt sẽ gi&uacute;p bạn nh&igrave;n đỡ gầy.</p>\n\n<p>&aacute;o vest nam mặc đi l&agrave;m: kh&ocirc;ng n&ecirc;n chọn c&aacute;c m&agrave;u qu&aacute; vượt trội hoặc qu&aacute; bảnh cho &aacute;o vest nam mặc đi khiến, n&ecirc;n chọn những m&agrave;u tối tạo sự nghi&ecirc;m t&uacute;c. mang quần vest nam chiếc n&agrave;y n&ecirc;n chọn vải mang pha polyeste hoặc loại vải sợi thi&ecirc;n nhi&ecirc;n &iacute;t nhăn, dễ giặt ủi v&agrave; bảo quản.&nbsp;&nbsp;<a href=\"https://thoitrangngaynay.com/ao-khoac-cap-doi-nam-nu\"><strong>&aacute;o kho&aacute;c cặp đ&ocirc;i nam nữ</strong></a></p>\n\n<p><strong>b&iacute; quyết chọn vest nam cho những người lớn b&eacute;o</strong></p>\n\n<p>-Tr&aacute;nh xa c&aacute;c bộ vest nam sở hữu sọc ngang, nhất l&agrave; tại khu vực bụng. c&aacute;c g&igrave; bạn c&oacute; thể mặc 1 c&aacute;ch thức ki&ecirc;u h&atilde;nh l&agrave; &aacute;o sơ mi v&agrave; &aacute;o d&agrave;i c&oacute; sọc dọc. Sọc dọc sẽ k&eacute;o mắt hướng xuống, khiến người bạn nh&igrave;n d&agrave;i hơn v&agrave; thu&ocirc;n hơn.</p>\n\n<p>8 phương ph&aacute;p chọn vest nam mang bộ vest nam sọc nhỏ rất ph&ugrave; hợp sở hữu bạn, nhất l&agrave; đồng h&agrave;nh với &aacute;o sơ mi đen. Sọc nhỏ cũng rất tuyệt khi phối cộng jeans đen hay quần d&agrave;i đen. Để mặc thường nhật, bạn n&ecirc;n mua chất liệu&nbsp;kẻ, chất liệu nhẹ mang trục đường kẻ thật thon thả.</p>\n\n<p>giảm thiểu &aacute;o xẻ t&agrave; đ&ocirc;i, nhất l&agrave; đối sở hữu quần, v&igrave; trục đường xẻ sẽ tập kết ch&uacute; &yacute; v&agrave;o m&ocirc;ng của bạn. Bạn sở hữu thể ti&ecirc;u d&ugrave;ng chiếc xẻ 1 t&agrave; hay kh&ocirc;ng xẻ g&igrave; cả th&igrave; rẻ hơn.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>8 N&ecirc;n chọn gi&agrave;y mũi vu&ocirc;ng.</strong>&nbsp;Gi&agrave;y mũi nhọn chỉ ph&ugrave; hợp khi bạn cao v&agrave; ống &aacute;o với thể phủ gần hết gi&agrave;y. nếu bạn nhỏ con m&agrave; đ&ocirc;i gi&agrave;y lại qu&aacute; lớn hay d&agrave;i, tr&ocirc;ng bạn sẽ hơi giống ch&agrave;ng hề. N&ecirc;n tăng th&ecirc;m chiều cao cho gi&agrave;y v&agrave; mặc &aacute;o d&agrave;i phủ che g&oacute;t gi&agrave;y.</p>\n\n<p><strong>- sở hữu thể d&ugrave;ng c&agrave; vạt, d&acirc;y chuyền hay mũ để khu&ocirc;n mặt trở n&ecirc;n trọng t&acirc;m của sự ch&uacute; &yacute;</strong>&nbsp;thay v&igrave; chiều cao. &ndash; mang người nhỏ con, c&aacute;c họa tiết to tr&ecirc;n trang phục sẽ nhấn ch&igrave;m họ. N&ecirc;n chọn họa tiết nhỏ th&ocirc;i, mang m&agrave;u trắng hay đen. &ndash; H&atilde;y phấn đấu sử dụng họa tiết tương hợp c&oacute; v&oacute;c d&aacute;ng của bạn&nbsp;để ch&acirc;n c&oacute; vẻ d&agrave;i hơn.</p>\n\n<p><img alt=\"Cách chọn vest phù hợp cho nam\" src=\"https://thoitrangngaynay.com/upload/images/noo-phuoc-thinh1.jpg\" style=\"height:750px; width:500px\" /></p>\n\n<p>Ch&agrave;ng lịch l&atilde;m b&ecirc;n bộ vest&nbsp;</p>\n\n<p><strong>8 Chọn kiểu cổ quần thon.</strong>&nbsp;loại cổ to sẽ l&agrave;m cho th&acirc;n thể bạn kh&ocirc;ng c&acirc;n xứng. v&iacute; như qu&aacute; thấp, bạn n&ecirc;n kiếm mẫu c&agrave; vạt khổ nhỏ v&agrave; ngắn.D&aacute;ng người thấp: với những qu&yacute; &ocirc;ng chiều cao khi&ecirc;m tốn, quần vest nam m&agrave;u s&aacute;ng l&agrave; sự tuyển lựa số 1. hạn chế những chất liệu vải cứng l&agrave;m cho g&ograve; b&oacute; v&agrave; bị tốt đi. N&ecirc;n chọn quần vest nam c&agrave;ng đơn thuần c&agrave;ng rẻ, giảm thiểu những &aacute;o vest họa tiết cầu k&igrave; phức tạp.&nbsp;&nbsp;<a href=\"https://thoitrangngaynay.com/giay-the-thao-nu-dep\"><strong>gi&agrave;y thể thao nữ đẹp</strong></a></p>\n\n<p>Vest l&agrave; một trang phục lịch l&atilde;m cho qu&yacute; &ocirc;ng, kh&ocirc;ng hề chỉ mặc vest khi với tiệc t&ugrave;ng, hội nghị hoặc c&oacute; sự kiện vượt trội m&agrave; bạn sở hữu thể thả sức phối đồ đi chơi 1 c&aacute;ch thức phong c&aacute;ch b&aacute;nh b&egrave;o.</p>\n\n<p>Chỉ cần bạn biết b&iacute; quyết chọn vest nam chuẩn theo d&aacute;ng người như tr&ecirc;n th&igrave; mang thể tự tin thả sức diện đồ rồi.</p>\n",
+      "iduser": "2",
+      "thoigian": "4/30/2020",
+      "id": 3
+    },
+    {
+      "tieude": "Hè năm nay có gì hot?",
+      "images": "https://thoitrangngaynay.com/upload/images/sao-Viet-va-tui-coi.jpg",
+      "mota": "Mùa hè đang tới sắp và đây là khoảng thời kì thuận lợi để cập nhật cũng như thay mới tủ đồ. Vậy hãy xem ngay bài viết này và cập nhật nhanh 4 item mà nếu bạn không sắm liền tay sẽ tiếc ngay.",
+      "chitiet": "<h2><strong>M&ugrave;a h&egrave; đang tới sắp v&agrave; đ&acirc;y l&agrave; khoảng thời k&igrave; thuận lợi để cập nhật cũng như thay mới tủ đồ. Vậy&nbsp;h&atilde;y xem ngay b&agrave;i viết n&agrave;y v&agrave; cập nhật nhanh 4 item m&agrave; nếu bạn kh&ocirc;ng sắm liền tay sẽ tiếc ngay.</strong></h2>\n\n<p>Lại một m&ugrave;a h&egrave; năng động,nhộn nhịp đang tới gần&nbsp;v&agrave; bạn đ&atilde; chuẩn bị g&igrave; cho c&aacute;c chuyến d&atilde; ngoại, vi vu biển đảo chưa? Đ&acirc;y cũng l&agrave; dịp để ch&uacute;ng ta c&ugrave;ng ngắm lại tủ đồ v&agrave;&nbsp;cập nhật loạt h&agrave;ng về li&ecirc;n tục v&agrave; thay mới tủ đồ bằng những bộ c&aacute;nh kh&ocirc;ng chỉ năng động, xinh tươi m&agrave; c&ograve;n thật l&agrave; fashion nữa.</p>\n\n<p><strong>1.Mũ c&oacute;i</strong></p>\n\n<p>C&oacute; lẽ kh&ocirc;ng&nbsp;qu&aacute; bất ngờ khi nhắc đến item n&agrave;y đ&uacute;ng kh&ocirc;ng? V&igrave; &nbsp;item n&agrave;y được xem l&agrave; hot nhất m&ugrave;a h&egrave; n&agrave;y lu&ocirc;n. Mẫu mũ c&oacute;i được biến tấu c&agrave;ng ng&agrave;y c&agrave;ng nhiều sở hữu c&aacute;c phom d&aacute;ng độc đ&aacute;o hơn. từ c&aacute;c kiểu v&agrave;nh nhỏ, v&agrave;nh rũ thậm ch&iacute; l&agrave; v&agrave;nh rộng, đứng phom. D&ugrave; l&ecirc;n rừng hay xuống biển, d&ograve;ng mũ c&oacute;i lu&ocirc;n l&agrave; item si&ecirc;u hữu dụng ngo&agrave;i việc th&ecirc;m điểm s&aacute;ng&nbsp;c&aacute;c tấm ảnh m&ugrave;a h&egrave; tr&ocirc;ng thu h&uacute;t hơn, th&igrave; n&oacute; c&ograve;n sở hữu thể cản c&aacute;c tia nắng gay gắt l&uacute;c đi du lịch.</p>\n\n<p><img alt=\"Hè năm nay có gì hot?\" src=\"https://thoitrangngaynay.com/upload/images/sao-Viet-va-mu-coi.jpg\" style=\"height:875px; width:700px\" /></p>\n\n<p>Tr&ocirc;ng thật nổi bật với chiếc mũ coi t&ocirc;ng nhẹ nh&agrave;ng</p>\n\n<p><strong>2. T&uacute;i c&oacute;i</strong></p>\n\n<p>V&agrave; để ho&agrave;n thiện set đồ m&ugrave;a h&egrave; th&igrave; kh&ocirc;ng thể thiếu c&aacute;c kiểu t&uacute;i c&oacute;i phổ th&ocirc;ng trong khoảng ngo&agrave;i mặt tới m&agrave;u sắc đa dạng. ko chỉ điểm t&ocirc; n&eacute;t cổ điển v&agrave; độc lạ cho đại qu&aacute;t set đồ, c&aacute;c loại t&uacute;i c&oacute;i c&ograve;n diễn đạt sự tinh tế v&agrave; s&agrave;nh điệu trong shop fashion. H&atilde;y cộng xem c&aacute;c mỹ nh&acirc;n Việt gợi &yacute; diện cộng key item m&ugrave;a h&egrave; n&agrave;y ăn &yacute; đến thế n&agrave;o khi xuống phố.</p>\n\n<p><img alt=\"Hè năm nay có gì hot?\" src=\"https://thoitrangngaynay.com/upload/images/sao-Viet-va-tui-coi.jpg\" style=\"height:726px; width:500px\" /></p>\n\n<p>Angela Phương Trinh chọn cho m&igrave;nh chiếc t&uacute;i c&oacute;i hoa nổi bật</p>\n",
+      "iduser": "2",
+      "thoigian": "4/30/2020",
+      "id": 4
+    }
+  ],
+  "slider": [
+    {
+      "tieude": "slider mới",
+      "images": "https://tmluxury.vn/wp-content/uploads/banner-do-shop-thoi-trang-nam-tphcm-tmluxury.jpg",
+      "mota": "Áo 1",
+      "trangthai": 1,
+      "id": 2
+    },
+    {
+      "tieude": "slider trang chu",
+      "images": "images/banner-bg.jpg",
+      "mota": "Áo thu đông",
+      "trangthai": 1,
+      "id": 5
+    },
+    {
+      "tieude": "Thời trang nam",
+      "images": "file:///C:/Ass2_Thanhnbph07628_WEB206/public/frontend/assets/images/Banner2.jpg",
+      "mota": "chưa có",
+      "trangthai": 1,
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "user": "vanthanh",
+      "pass": "logo.png",
+      "vaitro": 1,
+      "hoten": "Văn Thanh",
+      "anhdd": "images/avatar.jpg",
+      "diachi": "Thanh Xuân - Hà Nội",
+      "email": "thanhnbph07628@fpt.edu.vn",
+      "sdt": "012345678",
+      "id": 2
+    }
+  ],
+  "binhluan": [
+    {
+      "id": 1,
+      "noidung": "sản phẩm tốt",
+      "idsp": 1,
+      "iduser": 1
+    }
+  ],
+  "infomation": [
+    {
+      "id": 1,
+      "logo": "images/header-logo.png",
+      "sdt": "0123456789",
+      "email": "thanhnbph07628@fpt.edu.vn",
+      "diachi": "Thanh Xuân - Hà Nội",
+      "tencongty": "PIXIE"
+    }
+  ],
+  "dathang": [
+    {
+      "id": 1,
+      "idsp": 1,
+      "iduser": 1,
+      "thoigian": "20-12-2020",
+      "trangthai": "1"
+    }
+  ],
+  "lienhe": [
+    {
+      "id": 1,
+      "hoten": "Bá Thành",
+      "email": "bathanh@gmail.com",
+      "tieude": "Đánh giá",
+      "noidung": "Sản phẩm tốt"
+    },
+    {
+      "hoten": "Văn Thanh",
+      "email": "thanhnbph07628@fpt.edu.vn",
+      "tieude": "Chưa có",
+      "noidung": "Chưa có",
+      "id": 2
+    },
+    {
+      "hoten": "Minh Tú",
+      "email": "minhtu@gmail.com",
+      "tieude": "chưa có",
+      "noidung": "chưa có",
+      "id": 3
+    }
+  ]
+}
